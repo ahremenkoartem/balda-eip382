@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>БАЛДА</string>
+  <string>СУП</string>
+  <string>КРЮК</string>
+  <string>СПОРТ</string>
+  <string>БАК</string>
+  <string>РАК</string>
+  <string>КАРА</string>
+  <string>БАРАК</string>
+  <string>БАРД</string>
+  <string>БАРАН</string>
+  <string>БРАК</string>
+  <string>СПОР</string>
+  <string>РОТ</string>
+  <string>ПОРТ</string>
+  <string>ТОРТ</string>
+</ArrayOfString>

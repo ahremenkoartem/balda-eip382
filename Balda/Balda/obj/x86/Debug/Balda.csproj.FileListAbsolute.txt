@@ -1,0 +1,41 @@
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\bin\Debug\Balda.exe
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\bin\Debug\Balda.pdb
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\MainWindow.baml
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\App.g.cs
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\Balda_MarkupCompile.cache
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\Balda.g.resources
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\Balda.Properties.Resources.resources
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\Balda.exe
+C:\Users\Алк\Documents\Visual Studio 2010\Projects\Balda\Balda\obj\x86\Debug\Balda.pdb
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\Balda.exe
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\Balda.pdb
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\bin\Debug\Balda.exe
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\bin\Debug\Balda.pdb
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\MainWindow.baml
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\App.g.cs
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\Balda_MarkupCompile.cache
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\Balda.g.resources
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\Balda.Properties.Resources.resources
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алк\Dropbox\Public\Projects\Balda\Balda\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\Balda.exe
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\Balda.pdb
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\bin\Debug\Balda.exe
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\bin\Debug\Balda.pdb
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\MainWindow.baml
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\App.g.cs
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\Balda_MarkupCompile.cache
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\Balda.g.resources
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\Balda.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Евгений\Desktop\Archive\Balda-2\Balda\Balda\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\maksimko\Рабочий стол\Фото\Balda (2)\Balda\Balda\obj\x86\Debug\Balda.exe
+C:\Documents and Settings\maksimko\Рабочий стол\Фото\Balda (2)\Balda\Balda\obj\x86\Debug\Balda.pdb
